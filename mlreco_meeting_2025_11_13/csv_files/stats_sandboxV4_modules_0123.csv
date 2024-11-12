@@ -1,0 +1,12 @@
+histogram,entries,mean,std_dev
+reco_mult_prim_total,82.00,2.00,1.20
+reco_mult_prim_shower,46.00,2.02,1.58
+reco_length_prim_muon,808.00,33.22,28.95
+reco_length_prim_pion,325.00,25.76,21.86
+reco_length_prim_proton,312.00,13.06,13.37
+reco_cosTheta_prim_muon,808.00,0.14,0.19
+reco_cosTheta_prim_pion,325.00,0.17,0.18
+reco_cosTheta_prim_proton,312.00,0.30,0.24
+reco_energy_prim_muon,808.00,0.15,0.11
+reco_energy_prim_pion,325.00,0.10,0.07
+reco_energy_prim_proton,312.00,0.12,0.07
