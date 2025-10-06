@@ -10,11 +10,7 @@ A simple comparison framework for analyzing Monte Carlo (MC) data against real d
 
 ## Purpose
 
-This project is designed to:
-
-- Compare simulation (MC) results to actual data
-- Summarize distributions and key metrics
-- Prepare reports for collaboration meetings
+This project is designed to compare simulation (MC) results to actual data.
 
 ## Notes
 
